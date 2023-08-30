@@ -13,7 +13,6 @@ Person::Person(string name, int age)
 	this->age = age;
 }
 
-
 string Person::getName()
 {
 	return name;
