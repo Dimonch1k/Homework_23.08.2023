@@ -16,8 +16,6 @@ void Teacher::display()
 	cout << "Subject: " << getSubject() << "\n\n\n";
 }
 
-
-
 string Teacher::getSubject()
 {
 	return subject;
